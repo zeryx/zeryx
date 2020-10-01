@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm James Sutton (zeryx)
 
 <!--
 **zeryx/zeryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning Engineer at @Algorithmia
 
-Here are some ideas to get you started:
+Interested in some neat open source projects I've worked on? Here's a few of them:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+For work:
+* [OpenForecast](https://github.com/algorithmia-algorithms/OpenForecast) - a powerful multivariate timeseries forecasting model with pytorch
+* [Video Stream Processing with ML](https://github.com/algorithmia-algorithms/ml-video-streaming) - a powerful and reliable system to process live streams with image based ML models.
+* [Algorithmia CI/CD github action](https://github.com/marketplace/actions/algorithmia-ci-cd) - a mechanism to enable CI/CD infrastructure for ML workflows on the Algorithmia platform.
+
+For fun:
+* [Tweet your own Adventure](https://github.com/zeryx/tweet-your-own-adventure) - A simple workflow to generate "choose your own adventure" stories on Twitter.
+* [ShyftWrk](https://github.com/zeryx/ShyftWrkQT) - A now pretty dated C++/Qt project for helping to visualize shiftworker synergy
+
+
 -->
