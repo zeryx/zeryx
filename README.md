@@ -1,9 +1,4 @@
 ### Hi there 👋 I'm James Sutton (zeryx)
-
-<!--
-**zeryx/zeryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm a Machine Learning Engineer at @Algorithmia
-
 Interested in some neat open source projects I've worked on? Here's a few of them:
 
 For work:
@@ -14,6 +9,3 @@ For work:
 For fun:
 * [Tweet your own Adventure](https://github.com/zeryx/tweet-your-own-adventure) - A simple workflow to generate "choose your own adventure" stories on Twitter.
 * [ShyftWrk](https://github.com/zeryx/ShyftWrkQT) - A now pretty dated C++/Qt project for helping to visualize shiftworker synergy
-
-
--->
