@@ -9,3 +9,5 @@ For work:
 For fun:
 * [Tweet your own Adventure](https://github.com/zeryx/tweet-your-own-adventure) - A simple workflow to generate "choose your own adventure" stories on Twitter.
 * [ShyftWrk](https://github.com/zeryx/ShyftWrkQT) - A now pretty dated C++/Qt project for helping to visualize shiftworker synergy
+
+And if you want to read some tech content, check out my catalog [here](https://algorithmia.com/blog/author/jamessutton)
