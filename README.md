@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm James Sutton (zeryx)
 Interested in some neat open source projects I've worked on? Here's a few of them:
 
+First self-taught ML project, an earthquake forecaster using C++/Cuda: [Earthquake Forecasting](https://bitbucket.org/zeryx/earthquake_forecaster)
+
 For work:
 * [OpenForecast](https://github.com/algorithmia-algorithms/OpenForecast) - a powerful multivariate timeseries forecasting model with pytorch
 * [Video Stream Processing with ML](https://github.com/algorithmia-algorithms/ml-video-streaming) - a powerful and reliable system to process live streams with image based ML models.
